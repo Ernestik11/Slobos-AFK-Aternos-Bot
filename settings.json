@@ -8,7 +8,7 @@
   "server": {
     "ip": "AvganSmp.aternos.me",
     "port": 42651,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
